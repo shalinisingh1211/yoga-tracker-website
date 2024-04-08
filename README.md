@@ -1,1 +1,1 @@
-# yoga-tracker-website
+# POSE PERFECTION website
